@@ -1,2 +1,1 @@
-export * from './components';
-export * from "./core"
+import * as sk from 'searchkit'
